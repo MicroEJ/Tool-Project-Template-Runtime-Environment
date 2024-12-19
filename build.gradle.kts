@@ -1,5 +1,5 @@
 plugins {
-    id("com.microej.gradle.runtime-environment") version "0.20.0"
+    id("com.microej.gradle.runtime-environment") version "1.0.0"
 }
 
 group = "com.mycompany"
