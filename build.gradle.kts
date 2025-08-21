@@ -7,5 +7,5 @@ version = "0.1.0-RC"
 
 dependencies {
     implementation("com.microej.kernelapi:edc:1.2.0")
-    api("ej.api:edc:1.3.5")
+    api("ej.api:edc:1.3.7")
 }
